@@ -1,0 +1,130 @@
+3a.
+    'DOLLARS'
+
+Unigram distribution = 0.00319962
+
+    'DOLLAR'
+
+Unigram distribution = 0.000713925
+
+    'DOWN'
+
+Unigram distribution = 0.000657862
+
+    'DO'
+
+Unigram distribution = 0.000598129
+
+    'DAY'
+
+Unigram distribution = 0.000578463
+
+    'DURING'
+
+Unigram distribution = 0.000539669
+
+    'D.'
+
+Unigram distribution = 0.000510818
+
+    'DON'T'
+
+Unigram distribution = 0.00045012
+
+    'DID'
+
+Unigram distribution = 0.000420033
+
+    'DEPARTMENT'
+
+Unigram distribution = 0.000410054
+
+    'DAYS'
+
+Unigram distribution = 0.00036885
+
+    'DIRECTOR'
+
+Unigram distribution = 0.000304972
+
+    'DRUG'
+
+Unigram distribution = 0.0002799
+
+    'DIDN'T'
+
+Unigram distribution = 0.000273149
+
+    'DEFENSE'
+
+Unigram distribution = 0.000266581
+
+    'DECISION'
+
+Unigram distribution = 0.000230099
+
+    'DECEMBER'
+
+Unigram distribution = 0.000224827
+
+    'DEBT'
+
+Unigram distribution = 0.000207583
+
+    'DEMOCRATIC'
+
+Unigram distribution = 0.000204684
+
+3b.
+
+    'HUNDRED'
+
+Bigram distribution = 0.209061
+
+    '<UNK>'
+
+Bigram distribution = 0.124304
+
+    '.POINT'
+
+Bigram distribution = 0.0999523
+
+    'OF'
+
+Bigram distribution = 0.0739471
+
+    'THOUSAND'
+
+Bigram distribution = 0.0686544
+
+    'MILLION'
+
+Bigram distribution = 0.0318315
+
+    ',COMMA'
+
+Bigram distribution = 0.0316218
+
+    '-HYPHEN'
+
+Bigram distribution = 0.0304793
+
+    'HALF'
+
+Bigram distribution = 0.0291394
+
+    '.PERIOD'
+
+Bigram distribution = 0.0243761
+
+3c.
+
+L_u = 88.5562
+
+L_b = -38.0972
+
+3d.
+
+L_u = 46.8604
+
+L_b = -Inf
